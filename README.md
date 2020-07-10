@@ -1,0 +1,1 @@
+Practice projects created following the Wesbos 30 Day Vanilla JS Coding Challenge.
